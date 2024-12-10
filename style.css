@@ -1,0 +1,43 @@
+body{
+    /*Comentario
+    cssgradient.io - para hacer degradado
+    color.adobe.com
+    paletadecolores.com.mx
+    color hunt
+    color hexadecimal, RGB
+    */
+    background-color:azure;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    padding: 30px;
+    /* Google font - elegimos- get font - get embed font - paste in head*/
+}
+
+nav{
+    text-align: center;
+    display: inline;
+    float: left;
+}
+img{
+    width: 600px;
+    border-radius: 20px;
+}
+
+.marchando{
+    border-radius: 100px;
+    opacity: 90%;
+    border:dotted;
+    border-color: antiquewhite;
+}
+
+.listas{
+    background-color: bisque;
+    border-radius: 15px;
+    padding: 30px;
+    background-image: url(https://wallpapers.com/images/hd/winnie-the-pooh-and-friends-cartoon-kafnc994cne00bec.jpg);
+    
+}
+
+h1{
+    text-align: center;
+}
